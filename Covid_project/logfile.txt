@@ -1,0 +1,83 @@
+18:29:56-Aug-13-2023,Extract file position csv
+18:29:56-Aug-13-2023,Extracted file position csv
+18:29:56-Aug-13-2023,Transform position csv file
+18:29:56-Aug-13-2023,Transformed position csv file
+18:29:56-Aug-13-2023,Load position csv file
+18:29:56-Aug-13-2023,Loaded position csv file
+18:48:03-Aug-13-2023,Extract file position csv
+18:48:03-Aug-13-2023,Extracted file position csv
+18:48:03-Aug-13-2023,Transform position csv file
+18:48:03-Aug-13-2023,Transformed position csv file
+18:48:03-Aug-13-2023,Load position csv file
+18:48:03-Aug-13-2023,Loaded position csv file
+18:48:56-Aug-13-2023,Extract file position csv
+18:48:56-Aug-13-2023,Extracted file position csv
+18:48:56-Aug-13-2023,Transform position csv file
+18:48:56-Aug-13-2023,Transformed position csv file
+18:48:56-Aug-13-2023,Load position csv file
+18:48:56-Aug-13-2023,Loaded position csv file
+21:10:50-Aug-13-2023,Extract file position csv
+21:10:51-Aug-13-2023,Extracted file position csv
+21:10:51-Aug-13-2023,Transform position csv file
+21:10:51-Aug-13-2023,Transformed position csv file
+21:10:51-Aug-13-2023,Load position csv file
+21:10:51-Aug-13-2023,Loaded position csv file
+21:18:52-Aug-13-2023,Extract file position csv
+21:18:52-Aug-13-2023,Extracted file position csv
+21:18:52-Aug-13-2023,Transform position csv file
+21:18:52-Aug-13-2023,Transformed position csv file
+21:18:52-Aug-13-2023,Load position csv file
+21:18:52-Aug-13-2023,Loaded position csv file
+21:38:32-Aug-13-2023,Extract file time series csv
+21:38:32-Aug-13-2023,Extracted file time series csv
+21:38:32-Aug-13-2023,Transform time series csv file
+21:38:32-Aug-13-2023,Transformed time series csv file
+21:38:32-Aug-13-2023,Load time series csv file
+21:38:32-Aug-13-2023,Loaded time series csv file
+21:38:32-Aug-13-2023,Etract file position comfirmed csv
+21:38:44-Aug-13-2023,Extract file time series csv
+21:38:45-Aug-13-2023,Extracted file time series csv
+21:38:45-Aug-13-2023,Transform time series csv file
+21:38:45-Aug-13-2023,Transformed time series csv file
+21:38:45-Aug-13-2023,Load time series csv file
+21:38:45-Aug-13-2023,Loaded time series csv file
+21:38:45-Aug-13-2023,Etract file position comfirmed csv
+21:38:45-Aug-13-2023,Extracted file position comfirmed csv
+21:38:45-Aug-13-2023,Extract file position death csv
+21:40:41-Aug-13-2023,Extract file time series csv
+21:40:41-Aug-13-2023,Extracted file time series csv
+21:40:41-Aug-13-2023,Transform time series csv file
+21:40:41-Aug-13-2023,Transformed time series csv file
+21:40:41-Aug-13-2023,Load time series csv file
+21:40:41-Aug-13-2023,Loaded time series csv file
+21:40:41-Aug-13-2023,Etract file position comfirmed csv
+21:40:41-Aug-13-2023,Extracted file position comfirmed csv
+21:40:41-Aug-13-2023,Extract file position death csv
+21:40:41-Aug-13-2023,Extracted file position death csv
+21:40:41-Aug-13-2023,Extract file position revovered csv
+21:40:41-Aug-13-2023,Extracted file position recovered csv
+21:40:41-Aug-13-2023,Transform position csv file
+22:05:25-Aug-13-2023,Extract file time series csv
+22:05:25-Aug-13-2023,Extracted file time series csv
+22:05:25-Aug-13-2023,Transform time series csv file
+22:05:25-Aug-13-2023,Transformed time series csv file
+22:05:25-Aug-13-2023,Load time series csv file
+22:05:25-Aug-13-2023,Loaded time series csv file
+22:05:25-Aug-13-2023,Etract file position comfirmed csv
+22:05:25-Aug-13-2023,Extracted file position comfirmed csv
+22:05:25-Aug-13-2023,Extract file position death csv
+22:05:25-Aug-13-2023,Extracted file position death csv
+22:05:25-Aug-13-2023,Extract file position revovered csv
+22:05:25-Aug-13-2023,Extracted file position recovered csv
+22:05:25-Aug-13-2023,Transform position comfirmed csv file
+22:05:25-Aug-13-2023,Transformed position comfirmed csv file
+22:05:25-Aug-13-2023,Transform position death csv file
+22:05:25-Aug-13-2023,Transformed position death csv file
+22:05:25-Aug-13-2023,Transform position recovered csv file
+22:05:26-Aug-13-2023,Transformed position recovered csv file
+22:05:26-Aug-13-2023,Load position confirmed csv file
+22:05:26-Aug-13-2023,Loaded position confirmed csv file
+22:05:26-Aug-13-2023,Load position death csv file
+22:05:26-Aug-13-2023,Loaded position death csv file
+22:05:26-Aug-13-2023,Load position recovered csv file
+22:05:26-Aug-13-2023,Loaded position recovered csv file
